@@ -26,8 +26,6 @@ int main(void)
     camera.target.y = 0;
     camera.rotation = 0;
     camera.zoom = 1;
-    // make players
-    // make
 
     while (!WindowShouldClose())
     {
